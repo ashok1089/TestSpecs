@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.swift_versions    = '5.3'
     s.name             = 'TestSpec'
-    s.version          = 'v1.0.0-beta4'
+    s.version          = '1.0.0-beta4'
     s.summary          = 'this is summary of test spec'
     s.homepage         = 'https://github.com/ashok1089/TestCocoaPods'
     s.authors           = {'Ashok Chikkam' => 'ashokc1089@gmail.com'}
